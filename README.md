@@ -18,7 +18,7 @@
 ## Live Demo
 
 For a live demo
-- Vecrel [click here](https://game-pftqxbp9c-jorges-projects-ef5f9b34.vercel.app).
+- Vercel [click here](https://game-pftqxbp9c-jorges-projects-ef5f9b34.vercel.app).
 
 ## Getting Started
 
