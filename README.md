@@ -18,7 +18,7 @@
 ## Live Demo
 
 For a live demo
-- Vecrel [click here](https://game-pftqxbp9c-jorges-projects-ef5f9b34.vercel.app).
+- Vercel [click here](https://game-pftqxbp9c-jorges-projects-ef5f9b34.vercel.app).
 
 ## Getting Started
 
@@ -66,7 +66,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to my peers who are always there to offer support. 
-- Original design idea by Nelson Sakwa on Behance.
+
 
 ## 📝 License
 
