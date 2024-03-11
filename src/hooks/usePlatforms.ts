@@ -11,7 +11,7 @@ const usePaltforms = () => useQuery(
     {
          queryKey: ['platforms'],
         queryFn: () => 
-        apiClient.get<FetchResponse<Platform>>('/platforms/list/parents').then(res => res.data),
+        apiClient.get<FetchResponse<Platform>>('/platforms/lists/parents').then(res => res.data),
         staleTime: 24 ^60 * 60* 1000, //24h
         // initialData: { count: platforms.length, results: platforms}
     }
